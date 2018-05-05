@@ -1,0 +1,15 @@
+52000 7 Intel Core_i7_7200 4.5 NVIDIA_GTX1080 12 8 500 C
+23000 2 Amd Athlon-x2 2.4 AMD_Radeon_HD_3450 0.5 2 160 O
+35000 1 Intel Core2Duo 2.2 AMD_Radeon_HD_8450 2 6 520 M
+34000 1 Intel Core2Duo 3.4 AMD_Radeon_HD_8450 2 5 410 M
+30000 1 Intel Core2Duo 3.1 AMD_Radeon_HD_8450 2 4 600 M
+33000 1 Intel Core2Duo 3.0 AMD_Radeon_HD_8450 2 2.5 450 M
+20020 5 Amd Ryzen-1200 2.8 AMD_Radeon_HD_3450 1 2 300 P
+80000 6 Intel Core_i7_7600K 4.3 NVIDIA_GTX_1080ti 12 32 2048 U
+25000 3 Bered HAx2 4.3 AnalogVideo 0.01 4 200 T
+23000 4 Bered HCx3 2.2 AnalogVideo 0.01 5 270 E
+24000 5 Bered HBx4 4.4 AnalogVideo_2.0 0.1 4 25 R
+150000 100 Intamd Core_i99 17 Radeon 64 24 1237 S 
+50000 1 Amd Ryzen_1300 3.3 Radeon_570x 8 16 2048 A
+75000 2 Intel Core_i5_6600 3.5 Nvidia_GTX1060 6 12 3096 R
+50000 5 Amd Ryzen_1700 4.2 Radeon_520 16 1024 
